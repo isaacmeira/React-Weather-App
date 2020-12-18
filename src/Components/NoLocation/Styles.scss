@@ -1,0 +1,31 @@
+.NoLocationMain {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+ 
+
+  
+  img {
+    width: 30%;
+    height: 30%;
+  }
+
+  strong {
+    font-family: 'roboto';
+    font-weight: bold;
+    font-size: 20px;
+    color: #f9f9f9;
+    margin-bottom: 2%;
+  }
+
+  span {
+    margin-top: 1%;
+    font-family: 'roboto';
+    font-weight: normal;
+    font-size: 15px;
+    color: #f9f9f9;
+    flex-wrap: wrap;
+    white-space: 'pre-wrap'
+  }
+}
