@@ -43,13 +43,13 @@ And, it´s done ! Now, just run our project, typing `yarn start` in your termina
 
 # Welcome page
 
-<img src="https://thumbnails-photos.amazon.com/v1/thumbnail/uaHOx-HpQo-0E5Eq2euQmg?viewBox=1095%2C748&ownerId=ARNBB32QIM3ZQ" />
+![Welcome](https://github.com/isaacmeira/React-Weather-App/blob/main/src/Assets/Exemples/1.png?raw=true)
 
 At this moment you need to allow your location access in your browser, we need the location to show to you the weather in your location.
 
 # Weather Page
 
-<img src="https://www.amazon.com/photos/shared/kJq65O3mRnO6120q6c1BcA.X2HW0kDKcUWyfMqaajANRi" />
+![Main](https://github.com/isaacmeira/React-Weather-App/blob/main/src/Assets/Exemples/2.png?raw=true)
 
 At this page, you can see many informations about your weather such as the termic sensation, the minimun temperature, the temperature, also, we have a button that you can update the informations anytime you want.
 
